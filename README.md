@@ -46,7 +46,6 @@ A quick reference guide for the most useful Visual Studio Code keyboard shortcut
 
 | Action | Mac | Windows |
 |--------|-----|---------|
-| Trigger Suggest | `Cmd+Space` | `Ctrl+Space` |
 | Go to Definition | `F12` | `F12` |
 | Peek Definition | `Option+F12` | `Alt+F12` |
 
