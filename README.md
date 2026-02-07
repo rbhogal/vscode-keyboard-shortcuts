@@ -32,8 +32,8 @@ A quick reference guide for the most useful Visual Studio Code keyboard shortcut
 
 | Action | Mac | Windows |
 |--------|-----|---------|
-| Toggle Sidebar | `Cmd+B` | `Ctrl+B` |
 | Toggle Terminal | `Cmd+J` | `Ctrl+J` |
+| Toggle Sidebar | `Cmd+B` | `Ctrl+B` |
 | Zoom In/Out | `Cmd+=/−` | `Ctrl+=/−` |
 
 ## File Management
