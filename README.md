@@ -84,6 +84,11 @@ A quick reference guide for my most used Visual Studio Code keyboard shortcuts o
 - Press `Cmd+Shift+L` to instantly add cursors at ALL occurrences
 - Use this when you want to change every instance at once
 
+**Add Cursor at Click** (`Option+Click` / `Alt+Click`):
+- Hold `Option` (Mac) or `Alt` (Windows) and click anywhere in your code
+- Each click adds a new cursor at that exact location
+- Perfect for adding cursors at specific, non-sequential positions
+
 **Example:**
 ```javascript
 const name = "John";
