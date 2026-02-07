@@ -1,3 +1,5 @@
+![banner](images/MelGeek-Mojo68-Plastic-Advance-65.webp)
+
 # VS Code Keyboard Shortcuts
 
 A quick reference guide for the most useful Visual Studio Code keyboard shortcuts on Mac and Windows.
