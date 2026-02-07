@@ -2,7 +2,7 @@
 
 # VS Code Keyboard Shortcuts
 
-A quick reference guide for what I find the most useful Visual Studio Code keyboard shortcuts on Mac and Windows.
+A quick reference guide for my most used Visual Studio Code keyboard shortcuts on Mac and Windows.
 
 ## Navigation & Search
 
