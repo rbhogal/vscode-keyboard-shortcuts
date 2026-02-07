@@ -103,6 +103,4 @@ You can view and customize all keyboard shortcuts in VS Code:
 
 ---
 
-*For a complete list of shortcuts, visit [VSCode keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf).*
-
-*For a complete list of shortcuts, visit [VSCode keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf).*
+*For a complete list of shortcuts, visit [VS Code keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) or [VS Code keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf).*
