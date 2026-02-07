@@ -55,8 +55,6 @@ A quick reference guide for my most used Visual Studio Code keyboard shortcuts o
 |--------|-----|---------|-------|
 | Toggle Line Comment | `Cmd+/` | `Ctrl+/` | Comments/uncomments selected lines with `//` (or language equivalent) |
 | Toggle Block Comment | `Shift+Option+A` | `Shift+Alt+A` | Wraps selection in `/* */` (or language equivalent) |
-| Add Line Comment | `Cmd+K Cmd+C` | `Ctrl+K Ctrl+C` | Always adds comments, even if already commented |
-| Remove Line Comment | `Cmd+K Cmd+U` | `Ctrl+K Ctrl+U` | Always removes comments |
 
 **How to comment multiple lines:**
 1. Select the lines you want to comment
