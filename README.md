@@ -1,4 +1,4 @@
-![banner](images/MelGeek-Mojo68-Plastic-Advance-65.webp)
+![banner](images/MelGeekMOJO68_banner.png)
 
 # VS Code Keyboard Shortcuts
 
