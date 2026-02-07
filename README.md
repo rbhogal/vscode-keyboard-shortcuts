@@ -27,8 +27,6 @@ A quick reference guide for the most useful Visual Studio Code keyboard shortcut
 | Jump to Start/End of Word | `Option+Left/Right` | `Ctrl+Left/Right` |
 | Toggle Line Comment | `Cmd+/` | `Ctrl+/` |
 | Toggle Block Comment | `Shift+Option+A` | `Shift+Alt+A` |
-| Add Line Comment | `Cmd+K Cmd+C` | `Ctrl+K Ctrl+C` |
-| Remove Line Comment | `Cmd+K Cmd+U` | `Ctrl+K Ctrl+U` |
 
 ## Display & Layout
 
