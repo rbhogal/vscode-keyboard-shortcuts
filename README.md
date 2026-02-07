@@ -47,6 +47,8 @@ A quick reference guide for the most useful Visual Studio Code keyboard shortcut
 | Action | Mac | Windows |
 |--------|-----|---------|
 | Trigger Suggest | `Cmd+Space` | `Ctrl+Space` |
+| Go to Definition | `F12` | `F12` |
+| Peek Definition | `Option+F12` | `Alt+F12` |
 
 ## Commenting
 
@@ -89,7 +91,7 @@ const name = "John";
 console.log(name);
 alert(name);
 ```
-Put cursor on `name`, press `Cmd+D` three times (or `Cmd+Shift+L` once) to edit all instances together!
+Put cursor on `name`, press `Cmd+D` three times (or `Cmd+Shift+L` once) to edit all instances together.
 
 ## Customization
 
@@ -99,4 +101,6 @@ You can view and customize all keyboard shortcuts in VS Code:
 
 ---
 
-*For a complete list of shortcuts, visit the [official VS Code documentation](https://code.visualstudio.com/docs/getstarted/keybindings).*
+*For a complete list of shortcuts, visit [VSCode keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf).*
+
+*For a complete list of shortcuts, visit [VSCode keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf).*
