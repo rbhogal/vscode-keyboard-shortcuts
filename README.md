@@ -18,7 +18,7 @@ A quick reference guide for my most used Visual Studio Code keyboard shortcuts o
 |--------|-----|---------|
 | Undo | `Cmd+Z` | `Ctrl+Z` |
 | Redo | `Cmd+Shift+Z` | `Ctrl+Y` or `Ctrl+Shift+Z` |
-| Multi-cursor | `Cmd+Option+Down/Up` | `Ctrl+Alt+Down/Up` |
+| Add Cursor at Click | `Option+Click` | `Alt+Click` |
 | Add Cursor to Selection | `Cmd+D` | `Ctrl+D` |
 | Select All Occurrences | `Cmd+Shift+L` | `Ctrl+Shift+L` |
 | Move Line Up/Down | `Option+Up/Down` | `Alt+Up/Down` |
